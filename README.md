@@ -1,4 +1,4 @@
 # Novum2
-Novum2 is a emulator of Nintendo Switch 2 in development for the successor to the most popular hybrid console. Developed in C++/Rust, this emulator aims to offer cutting-edge compatibility by optimizing for multi-core architectures and providing advanced support for modern graphics APIs such as Vulkan.
+Novum2 is a Nintendo Switch 2 emulator developed in C++. This emulator aims to offer compatibility with some games, but for now, it's focusing on making Mario Kart World work on multi-core architectures and providing advanced support, especially for modern graphics APIs like Vulkan. Later, OpenGL support will be added.
 
 This won't be easy; we need time to correct many of the flaws it has so far.
